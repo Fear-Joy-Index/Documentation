@@ -3,7 +3,7 @@
     "type": "text",
     "languarge": "en",
     "questionCount": 20,
-    "description": "Тест показывает ваш уровень депрессии",
+    "description": "The Zung Self-Rating Depression Scale was designed by Duke University psychiatrist William W.K. Zung MD (1929–1992) to assess the level of depression for patients diagnosed with depressive disorder.",
     "instruction": "For each item below, please check the column which best describes how often you felt or behaved this way during the past several days.",
     "questions": [
         {

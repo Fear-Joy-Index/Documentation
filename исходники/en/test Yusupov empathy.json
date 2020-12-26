@@ -1,517 +1,517 @@
 {
-    "name": "Тест на уровень эмпатийности Юсупова",
+    "name": "Test Yusupov empathy",
     "type": "text",
-    "language": "ru",
+    "language": "en",
     "questionCount": 35,
     "description": "Исследование уровня эмпатийных тенденций",
-    "instruction": "Оцените предлагаемые утверждения по пятибальной шкале.",
+    "instruction": "Rate the proposed statements on a five-point scale.",
     "questions": [
         {
             "id": 1, 
-            "question": "Мне больше нравятся книги о путешествиях,чем книги из серии «Жизнь замечательных людей».",
+            "question": "I like travel books more than books from the Life of Wonderful People series.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 2, 
-            "question": "Взрослых детей раздражает забота родителей.",
+            "question": "Adult children are annoyed by parental concerns.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 3, 
-            "question": "Мне нравится размышлять о причинах успехов и неудачах других людей.",
+            "question": "I like to reflect on the reasons for the success and failure of other people.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 4, 
-            "question": " Среди всех музыкальных передач предпочитаю передачи о современной музыке.",
+            "question": "Among all musical programs I prefer programs about modern music.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 5, 
-            "question": "Чрезмерную раздражительность и несправедливые упреки больного надо терпеть, даже если они продолжаются годами.",
+            "question": "Excessive irritability and unfair reproaches from the patient must be tolerated, even if they continue for years.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 6, 
-            "question": " Больному человеку можно помочь даже словом.",
+            "question": "Even a word can help a sick person.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 7, 
-            "question": " Посторонним людям не следует вмешиваться в конфликт между двумя лицами.",
+            "question": "Outsiders should not interfere with a conflict between two persons.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },{
             "id": 8, 
-            "question": " Старые люди,как правило, обидчивы без причин.",
+            "question": "Old people tend to be touchy for no reason.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         }, 
         {
             "id": 9, 
-            "question": "Когда в детстве слушал грустную историю, на мои глаза сами посебе наворачивались слезы",
+            "question": "When I listened to a sad story as a child, tears came to my eyes.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 10, 
-            "question": "Раздраженное состояние моих родителей влияет на мое настроение.",
+            "question": "My parents' irritation affects my mood.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 11, 
-            "question": "Я равнодушен к критике в мой адрес",
+            "question": "I am indifferent to criticism addressed to me.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 12, 
-            "question": "Мне больше нравится рассматривать портреты, чем картины с пейзажами.",
+            "question": "I like to view portraits more than landscape paintings.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 13, 
-            "question": " Я всегда прощал все родителям, даже если они были не правы.",
+            "question": "I have always forgiven everything to my parents, even if they were wrong.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 14, 
-            "question": "Если лошадь плохо тянет, ее нужно хлестать.",
+            "question": "If the horse does not pull well, it should be whipped.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 15, 
-            "question": " Когда я читаю о драматических событиях в жизни людей, то чувствую, словно это происходит сом ной.",
+            "question": "When I read about dramatic events in people's lives, I feel like it’s happening somnoy.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 16, 
-            "question": "Родители относятся к своим детям справедливо",
+            "question": "Parents treat their children fairly.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 17, 
-            "question": "Видя ссорящихся подростков или взрослых, я вмешиваюсь.",
+            "question": "Seeing adolescents or adults quarreling, I interfere.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
@@ -520,118 +520,118 @@
             "question": "Я не обращаю внимание на плохое настроение моих родителей.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 19, 
-            "question": "Я подолгу наблюдаю за поведением животных, откладывая другие дела.",
+            "question": "I don't pay attention to my parents' bad mood.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 20, 
-            "question": "Фильмы и книги могут вызвать слезы только у несерьезных людей.",
+            "question": "Films and books can only bring tears to frivolous people.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 21, 
-            "question": "Мне нравится наблюдать за выражением лиц и поведением незнакомых людей.",
+            "question": "I like to observe the expressions and behavior of strangers.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
@@ -640,418 +640,418 @@
             "question": "В детстве я приводил домой кошек и собак.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 23, 
-            "question": "Все люди необоснованно озлобленны.",
+            "question": "All people are unreasonably angry.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 24, 
-            "question": "Глядя на постороннего человека, мне хочется угадать, как сложится его жизнь.",
+            "question": "Looking at a stranger, I want to guess how his life will turn out.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 25, 
-            "question": "В детстве младшие по возрасту ходили за мной попятам.",
+            "question": "As a child, the younger ones followed me along.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 26, 
-            "question": "При виде покалеченного животного я стараюсь ему чем-то помочь.",
+            "question": "When I see a crippled animal, I try to help him with something.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 27, 
-            "question": "Человек устанет легче, если внимательно слушать его жалобы.",
+            "question": "A person will get tired more easily if you listen carefully to his complaints.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 28, 
-            "question": "Увидев уличное происшествие, я стараюсь не попадать в число свидетелей.",
+            "question": "After seeing a street incident, I try not to be among the witnesses.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 29, 
-            "question": "Младшим нравится, когдая предлагаю им свою идею, дело или развлечение.",
+            "question": "The younger ones like it when I offer them my idea, business or entertainment.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 30, 
-            "question": "Люди преувеличивают способность животных чувствовать настроение своих хозяев.",
+            "question": "Humans exaggerate the ability of animals to sense the mood of their owners.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 31, 
-            "question": "Из затруднительной конфликтной ситуации человек должен выходить самостоятельно.",
+            "question": "A person must get out of a difficult conflict situation on his own.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 32, 
-            "question": "Если ребенок плачет, на то есть свои причины.",
+            "question": "If a child cries, there are reasons for that.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 33, 
-            "question": "Молодежь должна удовлетворять любые просьбы и чудачества стариков.",
+            "question": "Young people should satisfy any requests and eccentricities of the elderly.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 34, 
-            "question": "Мне хотелось разобраться, почему некоторые мои одноклассники иногда были задумчивы.",
+            "question": "I wanted to figure out why some of my classmates were sometimes thoughtful.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
         {
             "id": 35, 
-            "question": " Беспризорных домашних животных следует отлавливать и уничтожать.",
+            "question": "Stray pets should be caught and destroyed.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         },
@@ -1060,28 +1060,28 @@
             "question": "Если мои друзья начинают обсуждать со мной свои личные проблемы, я стараюсь перевести разговор на другую тему.",
             "class": "",
             "A": {
-                "answer": "Не знаю",
+                "answer": "I don't know",
                 "score": 0
             },
             "B": {
-                "answer": "нет, никогда",
+                "answer": "no, never",
                 "score": 1
             },
             "C": {
-                "answer": "иногда",
+                "answer": "sometimes",
                 "score": 2
             },
         
             "D": {
-                "answer": "Часто",
+                "answer": "often",
                 "score": 3
             },
             "E": {
-                "answer": "Почти всегда",
+                "answer": "almost always",
                 "score": 4
             },
             "F": {
-                "answer": "Да, всегда",
+                "answer": "Yes always",
                 "score": 5
             }
         }

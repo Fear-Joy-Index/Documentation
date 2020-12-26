@@ -113,8 +113,8 @@
         },
         {
             "id": 6, 
-            "question": "6",
-            "class": " I still enjoy sex.",
+            "question": "I still enjoy sex.",
+            "class": "",
             "A": {
                 "answer": "A Little Of The Time",
                 "score": 4

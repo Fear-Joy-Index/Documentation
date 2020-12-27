@@ -3,12 +3,12 @@
     "type": "text",
     "languarge": "en",
     "questionCount": 20,
-    "description": "The Zung Self-Rating Depression Scale was designed by Duke University psychiatrist William W.K. Zung MD (1929–1992) to assess the level of depression for patients diagnosed with depressive disorder.",
-    "instruction": "For each item below, please check the column which best describes how often you felt or behaved this way during the past several days.",
+    "description": "The Zung Self-Rating Depression Scale was designed by Duke University psychiatrist William W.K. Zung MD (1929–1992) to assess the level of depression for patients diagnosed with depressive disorder",
+    "instruction": "For each item below, please check the column which best describes how often you felt or behaved this way during the past several days",
     "questions": [
         {
             "id": 1, 
-            "question": "I feel down hearted and blue.",
+            "question": "I feel down hearted and blue",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -29,7 +29,7 @@
         },
         {
             "id": 2, 
-            "question": "Morning is when I feel the best.",
+            "question": "Morning is when I feel the best",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -50,7 +50,7 @@
         },
         {
             "id": 3, 
-            "question": "I have crying spells or feel like it.",
+            "question": "I have crying spells or feel like it",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -71,7 +71,7 @@
         },
         {
             "id": 4, 
-            "question": "I have trouble sleeping at night.",
+            "question": "I have trouble sleeping at night",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -92,7 +92,7 @@
         },
         {
             "id": 5, 
-            "question": "I eat as much as I used to.",
+            "question": "I eat as much as I used to",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -113,7 +113,7 @@
         },
         {
             "id": 6, 
-            "question": "I still enjoy sex.",
+            "question": "I still enjoy sex",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -134,7 +134,7 @@
         },
         {
             "id": 7, 
-            "question": "I notice that I am losing weight.",
+            "question": "I notice that I am losing weight",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -154,7 +154,7 @@
             }
         },{
             "id": 8, 
-            "question": " I notice that I am losing weight.",
+            "question": "I have trouble with constipation..",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -175,7 +175,7 @@
         }, 
         {
             "id": 9, 
-            "question": "My heart beats faster than usual.",
+            "question": "My heart beats faster than usual",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -196,7 +196,7 @@
         },
         {
             "id": 10, 
-            "question": "I get tired for no reason.",
+            "question": "I get tired for no reason",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -217,7 +217,7 @@
         },
         {
             "id": 11, 
-            "question": "My mind is as clear as it used to be.",
+            "question": "My mind is as clear as it used to be",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -238,7 +238,7 @@
         },
         {
             "id": 12, 
-            "question": "I find it easy to do the things I used to.",
+            "question": "I find it easy to do the things I used to",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -259,7 +259,7 @@
         },
         {
             "id": 13, 
-            "question": "I am restless and can’t keep still.",
+            "question": "I am restless and can’t keep still",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -280,7 +280,7 @@
         },
         {
             "id": 14, 
-            "question": "I feel hopeful about the future.",
+            "question": "I feel hopeful about the future",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -301,7 +301,7 @@
         },
         {
             "id": 15, 
-            "question": "I am more irritable than usual.",
+            "question": "I am more irritable than usual",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -322,7 +322,7 @@
         },
         {
             "id": 16, 
-            "question": "I find it easy to make decisions.",
+            "question": "I find it easy to make decisions",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -343,7 +343,7 @@
         },
         {
             "id": 17, 
-            "question": "I feel that I am useful and needed.",
+            "question": "I feel that I am useful and needed",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -364,7 +364,7 @@
         },
         {
             "id": 18, 
-            "question": "My life is pretty full.",
+            "question": "My life is pretty full",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -385,7 +385,7 @@
         },
         {
             "id": 19, 
-            "question": "I feel that others would be better off if I were dead.",
+            "question": "I feel that others would be better off if I were dead",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",
@@ -406,7 +406,7 @@
         },
         {
             "id": 20, 
-            "question": "I still enjoy the things I used to do.",
+            "question": "I still enjoy the things I used to do",
             "class": "",
             "A": {
                 "answer": "A Little Of The Time",

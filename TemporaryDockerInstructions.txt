@@ -1,5 +1,7 @@
 Для докеризации требуется выполнение следующих команд:
 
-1) mvn clean compile install -> docker build -t fearandjoy/server:latest .
-2) docker run -d -p 27017 --name fearandjoy mongo:latest
-3) docker run -p 8081:8080 --link fearandjoy fearandjoy/server
+1) mvn clean install -> docker build -t dangoose/fearandjoy:server .
+2) docker run -d -p 28017:27017 --name joydb dangoose/fearandjoy:test_database
+3) docker run -p 8082:8080 --link joydb dangoose/fearandjoy:server
+
+Все образы расположены в Docker Hub: dangoose/fearandjoy.

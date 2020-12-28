@@ -1,0 +1,5 @@
+Для докеризации требуется выполнение следующих команд:
+
+1) mvn clean compile install -> docker build -t fearandjoy/server:latest .
+2) docker run -d -p 27017 --name fearandjoy mongo:latest
+3) docker run -p 8081:8080 --link fearandjoy fearandjoy/server

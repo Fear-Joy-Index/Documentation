@@ -1,7 +1,8 @@
 Для докеризации требуется выполнение следующих команд:
 
-1) mvn clean install -> docker build -t dangoose/fearandjoy:server .
-2) docker run -d -p 28017:27017 --name joydb dangoose/fearandjoy:test_database
-3) docker run -p 8082:8080 --link joydb dangoose/fearandjoy:server
+1) mvn clean install -> docker build -t dangoose/fearandjoy:server . # создаёт образ сервера
+2) docker run -d -p 28017:27017 --name joydb dangoose/fearandjoy:test_database # запускает образ базы данных
+3) docker run -p 8082:8080 --link joydb dangoose/fearandjoy:server # запускает образ сервера
 
 Все образы расположены в Docker Hub: dangoose/fearandjoy.
+Все пробросы портов 28017 и 8082 можно заменить на другие.
